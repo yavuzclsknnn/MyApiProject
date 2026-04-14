@@ -118,6 +118,17 @@ Bu proje, portföyümde yer alan **referans projelerden biri** olup,
 
 ---
 
+## 📬 İletişim
+
+Bu proje, yazılım mimarisi ve backend geliştirme konularında yetkinliğimi göstermek amacıyla hazırlanmıştır.
+Yeni projeler, iş birlikleri veya teknik görüşmeler için benimle iletişime geçebilirsiniz.
+
+   <br/>
+⭐ Katkı  <br/> 
+Projeyi beğendiysen ⭐ vermeyi unutma!  <br/>
+  <br/> 
+
+
 ## 📸 Proje Görselleri  <br/>
 
 <p align="center">
@@ -130,8 +141,4 @@ Bu proje, portföyümde yer alan **referans projelerden biri** olup,
   <img src="MyApiProject/screenshots/Ekran_Alintisi_14.PNG" width="600"/>
 </p>
 
-
-## 📬 İletişim
-
-Bu proje, yazılım mimarisi ve backend geliştirme konularında yetkinliğimi göstermek amacıyla hazırlanmıştır.
-Yeni projeler, iş birlikleri veya teknik görüşmeler için benimle iletişime geçebilirsiniz.
+ 
