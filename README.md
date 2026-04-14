@@ -133,4 +133,5 @@ Bu proje, portföyümde yer alan **referans projelerden biri** olup,
 
 ## 📬 İletişim
 
+Bu proje, yazılım mimarisi ve backend geliştirme konularında yetkinliğimi göstermek amacıyla hazırlanmıştır.
 Yeni projeler, iş birlikleri veya teknik görüşmeler için benimle iletişime geçebilirsiniz.
