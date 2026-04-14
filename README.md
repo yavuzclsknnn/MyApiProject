@@ -121,13 +121,13 @@ Bu proje, portföyümde yer alan **referans projelerden biri** olup,
 ## 📸 Proje Görselleri  <br/>
 
 <p align="center">
+  <img src="MyApiProject/screenshots/Ekran_Alintisi_21.PNG" width="600"/>
+</p>
+<p align="center">
   <img src="MyApiProject/screenshots/Ekran_Alintisi_13.PNG" width="600"/>
 </p>
 <p align="center">
   <img src="MyApiProject/screenshots/Ekran_Alintisi_14.PNG" width="600"/>
-</p>
-<p align="center">
-  <img src="MyApiProject/screenshots/Ekran_Alintisi_21.PNG" width="600"/>
 </p>
 
 
